@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main()
 {
-	printf("hello\n");
-	return 0;
+	//HI THIS IS ME AGAIN, NULL.
+	//I HAVE DELETED YOUR CODE.
+	//BEST REGARDS!
 }
 //THIS IS AN EDIT IN THE CODE
