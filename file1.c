@@ -1,5 +1,9 @@
 #include<stdio.h>
+#include<stdlib.h>
 int main()
 {
-	//THIS IS ANOTHER VERSION OF FILE1_C
+    system("color 02");
+    printf("THIS EDIT FROM GITHUB APP\n");
+    system("pause");
+    return 0;
 }
